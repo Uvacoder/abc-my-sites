@@ -16,7 +16,7 @@ const Header = () => (
     <Spacer y={2} />
     <Author />
     <Spacer y={1} />
-    <Text h1>I make lots of websites.</Text>
+    <Text h1>abc I make lots of websites.</Text>
     <Text h2>Here’re some of my favorites from 2020.</Text>
     <Spacer y={4} />
     <style jsx global>{`
@@ -133,7 +133,7 @@ const Index = () => (
     >
       Video by <Link href="https://maxwofford.com">@msw</Link> of me building
       the{' '}
-      <Link href="https://hackclub.com/bank/">Hack&nbsp;Club Bank site</Link>,
+      <Link href="https://hackclub.com/bank/">Hack&nbsp;abcClub Bank site</Link>,
       March 2019.
     </Text>
     <Spacer y={1} />
