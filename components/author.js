@@ -8,12 +8,12 @@ const Author = ({ github = false, ...props }) => (
       name="2020 in Review"
       align="left"
     >
-      <User.Link href="https://lachlanjc.com/">@lachlanjc</User.Link>
+      <User.Link href="https://github.com/uvacoder">@uvacoder</User.Link>
     </User>
     {github && (
       <>
         <Spacer x={1} />
-        <Link href="https://github.com/lachlanjc/2020-sites" block>
+        <Link href="https://github.com/uvacoder/sites-collection" block>
           <GitHub width={20} height={20} />
         </Link>
       </>
