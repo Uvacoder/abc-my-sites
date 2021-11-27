@@ -5,11 +5,11 @@ const makeTitle = (title, name) =>
   title === name ? title : `${title} – ${name}`
 
 const Meta = ({
-  title = '2020 Sites',
-  name = '2020 Sites',
-  description = 'Portfolio of 12 websites made by @lachlanjc throughout 2020.',
+  title = 'Sites Collection',
+  name = 'Sites Collection',
+  description = 'A curated collection of websites and portfolios I have made.',
   image = 'https://2020-sites.vercel.app/card.jpg',
-  url = 'https://2020-sites.lachlanjc.com',
+  url = 'https://sites-collection.vercel.app',
   children
 }) => {
   const { pathname } = useRouter()
