@@ -1,12 +1,12 @@
 [
   {
     "month": "January",
-    "slug": "gun-funded",
-    "name": "Gun Funded",
+    "slug": "screenshot-github-profile",
+    "name": "GitHub Profile Search",
     "desc": "I made a visualization of the gun lobby’s $40M+ funding of the U.S. Congress, which I presented in the [NYU Winter 2019 Show for the Recently Possible](https://itp.nyu.edu/shows/winter2019/). Using data from the [Center for Responsive Politics](https://www.opensecrets.org/) & Next.js, the site lets you find your representative, explore by state, & see the bias in funding. ([Project log](https://ima.lachlanjc.com/2019-11-26_cc_final_project/))",
     "color": "#338eda",
-    "url": "https://gunfunded.com",
-    "github": "https://github.com/lachlanjc/gunfunded"
+    "url": "https://abc-github-profile.vercel.app",
+    "github": "https://github.com/uvacoder/abc-github-profile"
   },
   {
     "month": "February",
