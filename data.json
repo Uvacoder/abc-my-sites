@@ -43,5 +43,14 @@
     "color": "#0b9e43",
     "url": "https://abc-quotes-eight.vercel.app",
     "github": "https://github.com/Uvacoder/abc-quotes"
+  },
+  {
+    "month": "December",
+    "slug": "screenshot-publicapis",
+    "name": "Search Public Apis",
+    "desc": "Just a simple webapp to display my collection of quotes.  Great search feature and ability to copy quotes to your clipboard with one-click",
+    "color": "#0b9e43",
+    "url": "https://abc-publicapis.vercel.app",
+    "github": "https://github.com/Uvacoder/abc-publicapis"
   }
 ]
