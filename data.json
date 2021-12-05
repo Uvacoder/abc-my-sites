@@ -34,5 +34,14 @@
     "color": "#0b9e43",
     "url": "https://centresustains.com",
     "github": "https://github.com/lachlanjc/centresustains"
+  },
+  {
+    "month": "December",
+    "slug": "quotemaster",
+    "name": "QuoteMaster",
+    "desc": "Just a simple webapp to display my collection of quotes.  Great search feature and ability to copy quotes to your clipboard with one-click",
+    "color": "#0b9e43",
+    "url": "https://abc-quotes-eight.vercel.app",
+    "github": "https://github.com/Uvacoder/abc-quotes"
   }
 ]
