@@ -37,7 +37,7 @@
   },
   {
     "month": "December",
-    "slug": "quotemaster",
+    "slug": "screenshot-quotemaster",
     "name": "QuoteMaster",
     "desc": "Just a simple webapp to display my collection of quotes.  Great search feature and ability to copy quotes to your clipboard with one-click",
     "color": "#0b9e43",
