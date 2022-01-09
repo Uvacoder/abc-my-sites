@@ -55,6 +55,15 @@
   },
   {
     "month": "December",
+    "slug": "screenshot-webdev-glossary",
+    "name": "WebDev Glossary",
+    "desc": "A great glossary of webdev terms and there definitions with links.",
+    "color": "#0b9e43",
+    "url": "https://webdev-glossary.vercel.app",
+    "github": "https://github.com/Uvacoder/webdev-glossary"
+  },
+  {
+    "month": "December",
     "slug": "screenshot-publicapis",
     "name": "Search Public Apis",
     "desc": "Just a simple webapp to display my collection of quotes.  Great search feature and ability to copy quotes to your clipboard with one-click",
