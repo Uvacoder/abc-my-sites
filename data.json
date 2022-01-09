@@ -46,6 +46,15 @@
   },
   {
     "month": "December",
+    "slug": "screenshot-emojiaid",
+    "name": "Emoji-aid",
+    "desc": "Just a simple webapp to search for emojis.  With the added ability to click on any emoji and have it copied to your clipboard.",
+    "color": "#0b9e43",
+    "url": "https://emoji-aid.vercel.app",
+    "github": "https://github.com/Uvacoder/abc-emoji-aid"
+  },
+  {
+    "month": "December",
     "slug": "screenshot-publicapis",
     "name": "Search Public Apis",
     "desc": "Just a simple webapp to display my collection of quotes.  Great search feature and ability to copy quotes to your clipboard with one-click",
