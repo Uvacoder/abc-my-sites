@@ -1,6 +1,6 @@
 [
   {
-    "month": "January",
+    "month": "Webapp",
     "slug": "screenshot-github-profile",
     "name": "GitHub Profile Search",
     "desc": "I made a visualization of the gun lobby’s $40M+ funding of the U.S. Congress, which I presented in the [NYU Winter 2019 Show for the Recently Possible](https://itp.nyu.edu/shows/winter2019/). Using data from the [Center for Responsive Politics](https://www.opensecrets.org/) & Next.js, the site lets you find your representative, explore by state, & see the bias in funding. ([Project log](https://ima.lachlanjc.com/2019-11-26_cc_final_project/))",
@@ -9,7 +9,7 @@
     "github": "https://github.com/uvacoder/abc-github-profile"
   },
   {
-    "month": "February",
+    "month": "Webapp",
     "slug": "screenshot-doodler",
     "name": "The Doodler",
     "desc": "I’ve built a lot of sites for [Hack Club](https://hackclub.com/) over the years. In January, I made [a proposal](https://www.notion.so/hackclub/A-new-era-for-web-at-Hack-Club-37f224e3b22d43e183eea08aa5c62485) that we build sites around Airtable as a database, with Next.js & [Theme UI](https://theme-ui.com) for the frontend, so they can be more “disposable” as various pieces of startup infrastructure change. In two days, I rebuilt our site indexing high school hackathons with the new methodology.",
@@ -18,7 +18,7 @@
     "github": "https://github.com/uvacoder/doodler"
   },
   {
-    "month": "December",
+    "month": "Webapp",
     "slug": "screenshot-gitstalk",
     "name": "Gitstalk",
     "desc": "2020 was really *a year*, so at the end of the year I returned to a project I’d started at the end of 2019: creating a year in review. I had a lot of fun assembling the story, but especially making the interactive music player for the Music page, visualizing my Activity rings, & all the little design details.",
@@ -27,7 +27,7 @@
     "github": "https://github.com/uvacoder/gitstalk"
   },
   {
-    "month": "December",
+    "month": "Webapp",
     "slug": "screenshot-pokerhands",
     "name": "Poker Hands Probabilities",
     "desc": "Poker hands manager and probabilities.",
@@ -36,7 +36,7 @@
     "github": "https://github.com/Uvacoder/poker-hands"
   },
   {
-    "month": "December",
+    "month": "Webapp",
     "slug": "screenshot-quotemaster",
     "name": "QuoteMaster",
     "desc": "Just a simple webapp to display my collection of quotes.  Great search feature and ability to copy quotes to your clipboard with one-click",
@@ -45,7 +45,7 @@
     "github": "https://github.com/Uvacoder/abc-quotes"
   },
   {
-    "month": "December",
+    "month": "Tool",
     "slug": "screenshot-emojiaid",
     "name": "Emoji-aid",
     "desc": "Just a simple webapp to search for emojis.  With the added ability to click on any emoji and have it copied to your clipboard.",
@@ -54,7 +54,7 @@
     "github": "https://github.com/Uvacoder/abc-emoji-aid"
   },
   {
-    "month": "December",
+    "month": "Guide",
     "slug": "screenshot-webdev-glossary",
     "name": "WebDev Glossary",
     "desc": "A great glossary of webdev terms and there definitions with links.",
@@ -63,7 +63,7 @@
     "github": "https://github.com/Uvacoder/webdev-glossary"
   },
   {
-    "month": "December",
+    "month": "Guide",
     "slug": "screenshot-htmlrecipes",
     "name": "Html Recipes",
     "desc": "A great glossary of html snippets, scripts and tips.",
@@ -72,7 +72,7 @@
     "github": "https://github.com/Uvacoder/htmlrecipes"
   },
   {
-    "month": "December",
+    "month": "Guide",
     "slug": "screenshot-code-guide",
     "name": "Code Guide",
     "desc": "A great and simple guide to html and css tips and scripts.",
@@ -81,7 +81,7 @@
     "github": "https://github.com/Uvacoder/code-guide"
   },
   {
-    "month": "December",
+    "month": "Webapp",
     "slug": "screenshot-publicapis",
     "name": "Search Public Apis",
     "desc": "Just a simple webapp to display my collection of quotes.  Great search feature and ability to copy quotes to your clipboard with one-click",
