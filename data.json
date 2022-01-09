@@ -73,6 +73,15 @@
   },
   {
     "month": "December",
+    "slug": "screenshot-code-guide",
+    "name": "Code Guide",
+    "desc": "A great and simple guide to html and css tips and scripts.",
+    "color": "#0b9e43",
+    "url": "https://uvacoder.github.io/code-guide/",
+    "github": "https://github.com/Uvacoder/code-guide"
+  },
+  {
+    "month": "December",
     "slug": "screenshot-publicapis",
     "name": "Search Public Apis",
     "desc": "Just a simple webapp to display my collection of quotes.  Great search feature and ability to copy quotes to your clipboard with one-click",
