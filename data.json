@@ -64,6 +64,15 @@
   },
   {
     "month": "December",
+    "slug": "screenshot-htmlrecipes",
+    "name": "Html Recipes",
+    "desc": "A great glossary of html snippets, scripts and tips.",
+    "color": "#0b9e43",
+    "url": "https://htmlrecipes-2.vercel.app",
+    "github": "https://github.com/Uvacoder/htmlrecipes"
+  },
+  {
+    "month": "December",
     "slug": "screenshot-publicapis",
     "name": "Search Public Apis",
     "desc": "Just a simple webapp to display my collection of quotes.  Great search feature and ability to copy quotes to your clipboard with one-click",
