@@ -55,7 +55,7 @@ const Project = ({
     className="project"
     style={{
       backgroundColor: color,
-      color: color.includes('#f') ? '#222' : '#fff',
+      color: color.includes('#f') ? '#222' : '#99CCFF',
       margin: 0,
       padding: `${standalone ? 24 : 12}pt 12pt`
     }}
