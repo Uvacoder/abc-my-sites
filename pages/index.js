@@ -3,16 +3,13 @@ import Image from 'next/image'
 import { Text, Card, Spacer, Row, Col, Grid, Toggle } from '@geist-ui/react'
 
 import Meta from '../components/meta'
-import Video from '../components/mux'
+//import Video from '../components/mux'
 import Author from '../components/author'
 import projects from '../data.json'
 
 const Header = () => (
   <Col component="header" className="header" justify="center" align="center">
-    <Video
-      mux="PPqmIRFuCQxjJk00M53yoBnNhj02HwaM6zzEhBndLbc300"
-      aria-label="Time lapse of Lachlan coding a website, filmed from behind the desk"
-    />
+    
     <Spacer y={2} />
     <Author />
     <Spacer y={1} />
@@ -30,7 +27,7 @@ const Header = () => (
       }
       .header * {
         z-index: 2;
-        color: #fff !important;
+        color: #00B4D8 !important;
         position: relative;
       }
       .header h1,
@@ -131,7 +128,7 @@ const Index = () => (
       align="center"
       style={{ maxWidth: '28ch', margin: 'auto' }}
     >
-      Video by <Link href="https://maxwofford.com">@msw</Link> of me building
+      Me building
       the{' '}
       <Link href="https://hackclub.com/bank/">Hack&nbsp;abcClub Bank site</Link>,
       March 2019.
