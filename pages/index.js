@@ -89,8 +89,8 @@ const Index = () => (
     <Meta />
     <style jsx global>{`
       body {
-        background-image: radial-gradient(#e3e3e3 1px, transparent 0),
-          radial-gradient(#e3e3e3 1px, transparent 0);
+        background-image: radial-gradient(#00e0d3 1px, transparent 0),
+          radial-gradient(#00e0d3 1px, transparent 0);
         background-position: 0 0, 25px 25px;
         background-attachment: fixed;
         background-size: 50px 50px;
