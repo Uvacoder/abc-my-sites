@@ -22,7 +22,7 @@ const Header = () => (
         overflow: hidden;
         line-height: 1.125;
         min-height: 384px;
-        height: 35vh;
+        height: 28vh;
         max-height: 768px;
       }
       .header * {
