@@ -22,12 +22,12 @@ const Header = () => (
         overflow: hidden;
         line-height: 1.125;
         min-height: 384px;
-        height: 50vh;
+        height: 35vh;
         max-height: 768px;
       }
       .header * {
         z-index: 2;
-        color: #00B4D8 !important;
+        color: #6930C3 !important;
         position: relative;
       }
       .header h1,
