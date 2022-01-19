@@ -109,6 +109,33 @@
   },
   {
     "month": "Webapp",
+    "slug": "screenshot-search-a-gif",
+    "name": "Search a gif",
+    "desc": "A very simple and basic search utility for a great catolgue of gifs.",
+    "color": "#53E5D9",
+    "url": "https://search-a-gif.vercel.app",
+    "github": "https://github.com/Uvacoder/gifs"
+  },
+  {
+    "month": "Webapp",
+    "slug": "screenshot-nuxt-hn",
+    "name": "HackerNews Nuxt",
+    "desc": "A basic Hackernews webapp built using the framework Nuxtjs.",
+    "color": "#D544E8",
+    "url": "https://abc-nuxt-hackernews.vercel.app/news",
+    "github": "https://github.com/Uvacoder/abc-nuxt-hackernews"
+  },
+  {
+    "month": "Webapp",
+    "slug": "screenshot-hashnode-analytics",
+    "name": "Hashnode Analytics",
+    "desc": "A great tool to get all your stats from hashnode.",
+    "color": "#80E843",
+    "url": "https://hashnode-analytics-abc.vercel.app",
+    "github": "https://github.com/Uvacoder/hashnode-analytics"
+  },
+  {
+    "month": "Webapp",
     "slug": "screenshot-publicapis",
     "name": "Search Public Apis",
     "desc": "Just a simple webapp to display my collection of quotes.  Great search feature and ability to copy quotes to your clipboard with one-click",
