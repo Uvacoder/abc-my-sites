@@ -136,6 +136,15 @@
   },
   {
     "month": "Webapp",
+    "slug": "screenshot-gh-stats-abc",
+    "name": "GitHub Stats",
+    "desc": "A great webapp much like github profile and gitstalk.  Webapp uses the github-api while collecting and displaying data for a selected github user.",
+    "color": "#43E8D5",
+    "url": "https://gh-stats-abc.vercel.app",
+    "github": "https://github.com/Uvacoder/github-stats"
+  },
+  {
+    "month": "Webapp",
     "slug": "screenshot-publicapis",
     "name": "Search Public Apis",
     "desc": "Just a simple webapp to display my collection of quotes.  Great search feature and ability to copy quotes to your clipboard with one-click",
