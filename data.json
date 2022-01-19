@@ -82,7 +82,7 @@
   },
   {
     "month": "Links Collection",
-    "slug": "screenshot-awesome-newsletters",
+    "slug": "screenshot-awesome-newletters",
     "name": "Awesome Newsletters",
     "desc": "A great collection of some of the best programming newsletters.  This site is in the format of awesome repos and is displayed using vuepress.",
     "color": "#7c3aed",
@@ -101,7 +101,7 @@
   {
     "month": "Guide",
     "slug": "screenshot-awesome-search",
-    "name": "Code Guide",
+    "name": "Awesome Search",
     "desc": "A great search engine to search the awesome list from github user sindhorus.",
     "color": "#333CC0",
     "url": "https://awesome-search-abc.vercel.app",
