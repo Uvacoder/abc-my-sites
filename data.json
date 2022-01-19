@@ -67,7 +67,7 @@
     "slug": "screenshot-htmlrecipes",
     "name": "Html Recipes",
     "desc": "A great glossary of html snippets, scripts and tips.",
-    "color": "#0b9e43",
+    "color": "#F36868",
     "url": "https://htmlrecipes-2.vercel.app",
     "github": "https://github.com/Uvacoder/htmlrecipes"
   },
@@ -81,38 +81,38 @@
     "github": "https://github.com/Uvacoder/code-guide"
   },
   {
-    "month": "Guide",
-    "slug": "screenshot-code-guide",
-    "name": "Code Guide",
-    "desc": "A great and simple guide to html and css tips and scripts.",
-    "color": "#0b9e43",
-    "url": "https://uvacoder.github.io/code-guide/",
-    "github": "https://github.com/Uvacoder/code-guide"
+    "month": "Links Collection",
+    "slug": "screenshot-awesome-newsletters",
+    "name": "Awesome Newsletters",
+    "desc": "A great collection of some of the best programming newsletters.  This site is in the format of awesome repos and is displayed using vuepress.",
+    "color": "#7c3aed",
+    "url": "https://uvacoder.github.io/awesome-newsletters/",
+    "github": "https://github.com/Uvacoder/awesome-newsletters"
   },
   {
     "month": "Guide",
-    "slug": "screenshot-code-guide",
-    "name": "Code Guide",
-    "desc": "A great and simple guide to html and css tips and scripts.",
-    "color": "#0b9e43",
-    "url": "https://uvacoder.github.io/code-guide/",
-    "github": "https://github.com/Uvacoder/code-guide"
+    "slug": "screenshot-smolcss",
+    "name": "Smolcss",
+    "desc": "A great guide of css code and snippets.",
+    "color": "#e28397",
+    "url": "https://smolcss-guide.vercel.app",
+    "github": "https://github.com/Uvacoder/smolcss-guide"
   },
   {
     "month": "Guide",
-    "slug": "screenshot-code-guide",
+    "slug": "screenshot-awesome-search",
     "name": "Code Guide",
-    "desc": "A great and simple guide to html and css tips and scripts.",
-    "color": "#0b9e43",
-    "url": "https://uvacoder.github.io/code-guide/",
-    "github": "https://github.com/Uvacoder/code-guide"
+    "desc": "A great search engine to search the awesome list from github user sindhorus.",
+    "color": "#333CC0",
+    "url": "https://awesome-search-abc.vercel.app",
+    "github": "https://github.com/Uvacoder/abc-awesome-search"
   },
   {
     "month": "Webapp",
     "slug": "screenshot-publicapis",
     "name": "Search Public Apis",
     "desc": "Just a simple webapp to display my collection of quotes.  Great search feature and ability to copy quotes to your clipboard with one-click",
-    "color": "#0b9e43",
+    "color": "#1AE542",
     "url": "https://abc-publicapis.vercel.app",
     "github": "https://github.com/Uvacoder/abc-publicapis"
   }
