@@ -145,6 +145,15 @@
   },
   {
     "month": "Webapp",
+    "slug": "screenshot-sudoku",
+    "name": "Sudoku OnLine",
+    "desc": "A great online version of the very popular game sudoku.  Online version has several levels from begineer up to hard.",
+    "color": "#D544E8",
+    "url": "https://sudoku-abc.netlify.app",
+    "github": "https://github.com/Uvacoder/sudoku"
+  },
+  {
+    "month": "Webapp",
     "slug": "screenshot-hashnode-analytics",
     "name": "Hashnode Analytics",
     "desc": "A great tool to get all your stats from hashnode.",
