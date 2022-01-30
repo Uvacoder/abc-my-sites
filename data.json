@@ -9,6 +9,15 @@
     "github": "https://github.com/uvacoder/abc-portfolios"
   },
   {
+    "month": "Personal",
+    "slug": "screenshot-abc-rss-feed",
+    "name": "My devhub Rss Feed",
+    "desc": "A start at a feed reader from selected blogs I prefer.",
+    "color": "#338eda",
+    "url": "https://eleventy-rss-reader.vercel.app",
+    "github": "https://github.com/uvacoder/abc-elevenety-rss-reader"
+  },
+  {
     "month": "Webapp",
     "slug": "screenshot-github-profile",
     "name": "GitHub Profile Search",
