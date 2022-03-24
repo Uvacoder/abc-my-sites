@@ -181,6 +181,15 @@
   },
   {
     "month": "Webapp",
+    "slug": "screenshot-notetaker,
+    "name": "Notetaker",
+    "desc": "A great webapp simple notetaking with the notes saved in the browser.",
+    "color": "#43E8D5",
+    "url": "https://notetaker.vercel.app",
+    "github": "https://github.com/Uvacoder/notetaker"
+  },
+  {
+    "month": "Webapp",
     "slug": "screenshot-publicapis",
     "name": "Search Public Apis",
     "desc": "Just a simple webapp to display my collection of quotes.  Great search feature and ability to copy quotes to your clipboard with one-click",
