@@ -9,6 +9,15 @@
     "github": "https://github.com/uvacoder/abc-portfolios"
   },
   {
+    "month": "Webapp",
+    "slug": "screenshot-notetaker,
+    "name": "Notetaker",
+    "desc": "A great webapp simple notetaking with the notes saved in the browser.",
+    "color": "#43E8D5",
+    "url": "https://notetaker.vercel.app",
+    "github": "https://github.com/Uvacoder/notetaker"
+  },
+  {
     "month": "Personal",
     "slug": "screenshot-abc-rss-feed",
     "name": "My devhub Rss Feed",
