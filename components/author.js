@@ -4,7 +4,7 @@ import { GitHub } from './icons'
 const Author = ({ github = false, ...props }) => (
   <Row justify="center" align="center" className="author" {...props}>
     <User
-      src="https://github.com/Uvacoder/sites-collection/blob/main/public/rob-owen.png"
+      src="https://raw.githubusercontent.com/Uvacoder/sites-collection/main/public/rob-owen.png"
       name="Collection of Sites"
       align="left"
     >
