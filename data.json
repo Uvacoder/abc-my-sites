@@ -10,6 +10,15 @@
   },
   {
     "month": "Webapp",
+    "slug": "screenshot-webgems-abc",
+    "name": "A great collection of webgems",
+    "desc": "A great webapp that is a searchable curated list of webgems on the net.",
+    "color": "#43E8D5",
+    "url": "https://webgems-abc.vercel.app",
+    "github": "https://github.com/Uvacoder/webgems-abc"
+  },
+  {
+    "month": "Webapp",
     "slug": "screenshot-notetaker",
     "name": "Notetaker",
     "desc": "A great webapp simple notetaking with the notes saved in the browser.",
