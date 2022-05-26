@@ -10,6 +10,15 @@
   },
   {
     "month": "Webapp",
+    "slug": "screenshot-abc-colors",
+    "name": "A great collection of gradients",
+    "desc": "A great webapp that is a great tool for geradients and other tools for working with gradients.",
+    "color": "#43E8D5",
+    "url": "https://abc-colors.vercel.app",
+    "github": "https://github.com/Uvacoder/abc-colors"
+  },
+  {
+    "month": "Webapp",
     "slug": "screenshot-webgems-abc",
     "name": "A great collection of webgems",
     "desc": "A great webapp that is a searchable curated list of webgems on the net.",
