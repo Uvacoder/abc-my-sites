@@ -244,6 +244,15 @@
   },
   {
     "month": "Tool",
+    "slug": "screenshot-svg2jsx-abc.vercel.app",
+    "name": "Svg2Jsx",
+    "desc": "A great webapp tool to convert svg code into jsx.",
+    "color": "#1AE542",
+    "url": "https://svg2jsx-abc.vercel.app",
+    "github": "https://github.com/Uvacoder/svg2jsx"
+  },
+  {
+    "month": "Tool",
     "slug": "screenshot-ushare-it.vercel.app",
     "name": "Share-It",
     "desc": "A great webapp to transfer files online.",
