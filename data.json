@@ -1,6 +1,6 @@
 [
   {
-    "month": "Personal",
+    "month": "Collections",
     "slug": "screenshot-abc-portfolios",
     "name": "My Favorite Portfolios",
     "desc": "Just a simple collection of my favorite portfolios for varios reasons.  Template is copied from Andy Bell, but Im slowly making it my own",
@@ -9,7 +9,7 @@
     "github": "https://github.com/uvacoder/abc-portfolios"
   },
   {
-    "month": "Webapp",
+    "month": "Colors",
     "slug": "screenshot-abc-colors",
     "name": "A great collection of gradients",
     "desc": "A great webapp that is a great tool for geradients and other tools for working with gradients.",
@@ -18,7 +18,7 @@
     "github": "https://github.com/Uvacoder/abc-colors"
   },
   {
-    "month": "Webapp",
+    "month": "Collection",
     "slug": "screenshot-webgems-abc",
     "name": "A great collection of webgems",
     "desc": "A great webapp that is a searchable curated list of webgems on the net.",
@@ -36,7 +36,7 @@
     "github": "https://github.com/Uvacoder/notetaker"
   },
   {
-    "month": "Personal",
+    "month": "Collection",
     "slug": "screenshot-abc-rss-feed",
     "name": "My devhub Rss Feed",
     "desc": "A start at a feed reader from selected blogs I prefer.",
@@ -126,7 +126,7 @@
     "github": "https://github.com/Uvacoder/code-guide"
   },
   {
-    "month": "Links Collection",
+    "month": "Collection",
     "slug": "screenshot-awesome-newletters",
     "name": "Awesome Newsletters",
     "desc": "A great collection of some of the best programming newsletters.  This site is in the format of awesome repos and is displayed using vuepress.",
@@ -144,7 +144,7 @@
     "github": "https://github.com/Uvacoder/smolcss-guide"
   },
   {
-    "month": "Guide",
+    "month": "Collection",
     "slug": "screenshot-awesome-search",
     "name": "Awesome Search",
     "desc": "A great search engine to search the awesome list from github user sindhorus.",
@@ -153,7 +153,7 @@
     "github": "https://github.com/Uvacoder/abc-awesome-search"
   },
   {
-    "month": "Webapp",
+    "month": "Collection",
     "slug": "screenshot-search-a-gif",
     "name": "Search a gif",
     "desc": "A very simple and basic search utility for a great catolgue of gifs.",
@@ -162,7 +162,7 @@
     "github": "https://github.com/Uvacoder/gifs"
   },
   {
-    "month": "Webapp",
+    "month": "Collection",
     "slug": "screenshot-gagagifs",
     "name": "My gif collection",
     "desc": "A great db of my collection of gifs.  Gifs are sorted into topics and easily searchable for the user through the great UI.",
@@ -207,7 +207,7 @@
     "github": "https://github.com/Uvacoder/github-stats"
   },
   {
-    "month": "Webapp",
+    "month": "Collection",
     "slug": "screenshot-publicapis",
     "name": "Search Public Apis",
     "desc": "Just a simple webapp to display my collection of quotes.  Great search feature and ability to copy quotes to your clipboard with one-click",
@@ -234,7 +234,7 @@
     "github": "https://github.com/Uvacoder/abc-devtools"
   },
   {
-    "month": "Webapp",
+    "month": "Tool",
     "slug": "screenshot-svgwave-abc.vercel.app",
     "name": "SvgWave",
     "desc": "A great webapp tool to help you create colorful waves for your project.  In png or svg.",
@@ -243,7 +243,7 @@
     "github": "https://github.com/Uvacoder/svgwave"
   },
   {
-    "month": "Webapp",
+    "month": "Tool",
     "slug": "screenshot-ushare-it.vercel.app",
     "name": "Share-It",
     "desc": "A great webapp to transfer files online.",
