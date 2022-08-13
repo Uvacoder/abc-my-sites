@@ -225,6 +225,15 @@
     "github": "https://github.com/Uvacoder/abc-cube-cubed"
   },
   {
+    "month": "Guide",
+    "slug": "screenshot-devtools",
+    "name": "DevTools",
+    "desc": "A collection of guides and cheatsheets.",
+    "color": "#1AE542",
+    "url": "https://abc-devtools.vercel.app",
+    "github": "https://github.com/Uvacoder/abc-devtools"
+  },
+  {
     "month": "Webapp",
     "slug": "screenshot-ushare-it.vercel.app",
     "name": "Share-It",
