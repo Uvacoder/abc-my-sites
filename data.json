@@ -215,7 +215,16 @@
     "url": "https://abc-publicapis.vercel.app",
     "github": "https://github.com/Uvacoder/abc-publicapis"
   },
-    {
+  {
+    "month": "Webapp",
+    "slug": "screenshot-cube-cubed",
+    "name": "Rubiks Cube",
+    "desc": "Just a simple webapp to help anyone solve the rubiks cube.",
+    "color": "#1AE542",
+    "url": "https://cube-cubed.vercel.app",
+    "github": "https://github.com/Uvacoder/cube-cubed"
+  },
+  {
     "month": "Webapp",
     "slug": "screenshot-ushare-it.vercel.app",
     "name": "Share-It",
