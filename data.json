@@ -244,12 +244,21 @@
   },
   {
     "month": "Tool",
-    "slug": "screenshot-svg2jsx-abc.vercel.app",
+    "slug": "screenshot-svg2jsx-abc",
     "name": "Svg2Jsx",
     "desc": "A great webapp tool to convert svg code into jsx.",
     "color": "#1AE542",
     "url": "https://svg2jsx-abc.vercel.app",
     "github": "https://github.com/Uvacoder/svg2jsx"
+  },
+  {
+    "month": "Tool",
+    "slug": "screenshot-perfect-signature",
+    "name": "Perfect Signature",
+    "desc": "A great webapp tool use as a signature pad.",
+    "color": "#1AE542",
+    "url": "https://uvacoder.github.io/v-perfect-signature/",
+    "github": "https://github.com/Uvacoder/v-perfect-signature"
   },
   {
     "month": "Tool",
