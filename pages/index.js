@@ -128,10 +128,10 @@ const Index = () => (
       align="center"
       style={{ maxWidth: '28ch', margin: 'auto' }}
     >
-      Me building
-      the{' '}
-      <Link href="https://hackclub.com/bank/">Hack&nbsp;abcClub Bank site</Link>,
-      March 2019.
+      Check out my 
+      github{' '}
+      <Link href="https://github.com/uvacoder">uvacoder&nbsp;abc</Link>,
+      2022.
     </Text>
     <Spacer y={1} />
     <Author github />
