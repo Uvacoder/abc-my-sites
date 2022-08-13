@@ -235,6 +235,15 @@
   },
   {
     "month": "Webapp",
+    "slug": "screenshot-svgwave-abc.vercel.app",
+    "name": "SvgWave",
+    "desc": "A great webapp tool to help you create colorful waves for your project.  In png or svg.",
+    "color": "#1AE542",
+    "url": "https://svgwave-abc.vercel.app",
+    "github": "https://github.com/Uvacoder/svgwave-abc"
+  },
+  {
+    "month": "Webapp",
     "slug": "screenshot-ushare-it.vercel.app",
     "name": "Share-It",
     "desc": "A great webapp to transfer files online.",
