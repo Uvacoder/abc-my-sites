@@ -262,6 +262,15 @@
   },
   {
     "month": "Tool",
+    "slug": "screenshot-reacttools-guide",
+    "name": "React Tools Guide",
+    "desc": "A great guide using docusaurus as its layout and a great guide for all things react.",
+    "color": "#1AE542",
+    "url": "https://react-tools-practices-guide.vercel.app",
+    "github": "https://github.com/Uvacoder/react-tools-practices-guide"
+  },
+  {
+    "month": "Tool",
     "slug": "screenshot-ushare-it.vercel.app",
     "name": "Share-It",
     "desc": "A great webapp to transfer files online.",
