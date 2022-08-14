@@ -325,6 +325,15 @@
   },
   {
     "month": "Tool",
+    "slug": "screenshot-abc-periodic-table.netlify.app",
+    "name": "Periodic Table",
+    "desc": "A great learning and informative tool for use with all your scientific studies.",
+    "color": "#1AE542",
+    "url": "https://abc-periodic-table.netlify.app",
+    "github": "https://github.com/Uvacoder/periodictable"
+  },
+  {
+    "month": "Tool",
     "slug": "screenshot-ushare-it.vercel.app",
     "name": "Share-It",
     "desc": "A great webapp to transfer files online.",
