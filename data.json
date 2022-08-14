@@ -287,7 +287,7 @@
     "url": "https://hackernews-abc.vercel.app/news",
     "github": "https://github.com/Uvacoder/hackernews-abc"
   },
-   {
+  {
     "month": "Collection",
     "slug": "screenshot-font-library",
     "name": "Font Library",
@@ -295,6 +295,15 @@
     "color": "#1AE542",
     "url": "https://uvacoder.github.io/font-library/#!/",
     "github": "https://github.com/Uvacoder/font-library"
+  },
+  {
+    "month": "Tool",
+    "slug": "screenshot-ez-resume",
+    "name": "Easy Resume",
+    "desc": "A great webapp to help you create your own resume with ease but all the looks of a professional.",
+    "color": "#1AE542",
+    "url": "https://ez-resume.vercel.app",
+    "github": "https://github.com/Uvacoder/ez-resume"
   },
   {
     "month": "Tool",
