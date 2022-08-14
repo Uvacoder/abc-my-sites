@@ -279,6 +279,15 @@
     "github": "https://github.com/Uvacoder/abc-physics-calc"
   },
   {
+    "month": "Webapp",
+    "slug": "screenshot-nuxt-hn",
+    "name": "HackerNews by Nuxt",
+    "desc": "A great webapp which using Nuxt.js to display and organize the feed from hackernews.",
+    "color": "#1AE542",
+    "url": "https://hackernews-abc.vercel.app/news",
+    "github": "https://github.com/Uvacoder/hackernews-abc"
+  },
+  {
     "month": "Tool",
     "slug": "screenshot-ushare-it.vercel.app",
     "name": "Share-It",
