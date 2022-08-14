@@ -287,6 +287,15 @@
     "url": "https://hackernews-abc.vercel.app/news",
     "github": "https://github.com/Uvacoder/hackernews-abc"
   },
+   {
+    "month": "Collection",
+    "slug": "screenshot-font-library",
+    "name": "Font Library",
+    "desc": "A great collection of hundreds of fonts all sorted and organized for you to search and view.",
+    "color": "#1AE542",
+    "url": "https://uvacoder.github.io/font-library/#!/",
+    "github": "https://github.com/Uvacoder/font-library"
+  },
   {
     "month": "Tool",
     "slug": "screenshot-ushare-it.vercel.app",
