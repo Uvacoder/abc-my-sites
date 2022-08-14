@@ -305,6 +305,16 @@
     "url": "https://ez-resume.vercel.app",
     "github": "https://github.com/Uvacoder/ez-resume"
   },
+  
+  {
+    "month": "Colors",
+    "slug": "screenshot-colorhyper",
+    "name": "Colorhyper",
+    "desc": "A great webapp for all kinds of color gradients for your tailwindcss.",
+    "color": "#1AE542",
+    "url": "https://colorhyper-abc.vercel.app",
+    "github": "https://github.com/Uvacoder/colorhyper"
+  },
   {
     "month": "Tool",
     "slug": "screenshot-ushare-it.vercel.app",
