@@ -271,6 +271,15 @@
   },
   {
     "month": "Tool",
+    "slug": "screenshot-physics-calc",
+    "name": "Physics Calculator",
+    "desc": "A great webapp tool for use with all things mathmatics and physics.",
+    "color": "#1AE542",
+    "url": "https://abc-physics-calc.vercel.app",
+    "github": "https://github.com/Uvacoder/abc-physics-calc"
+  },
+  {
+    "month": "Tool",
     "slug": "screenshot-ushare-it.vercel.app",
     "name": "Share-It",
     "desc": "A great webapp to transfer files online.",
