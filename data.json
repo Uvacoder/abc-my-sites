@@ -244,7 +244,7 @@
   },
   {
     "month": "Tool",
-    "slug": "screenshot-svg2jsx-abc",
+    "slug": "screenshot-svg2jsx",
     "name": "Svg2Jsx",
     "desc": "A great webapp tool to convert svg code into jsx.",
     "color": "#1AE542",
@@ -253,7 +253,7 @@
   },
   {
     "month": "Tool",
-    "slug": "screenshot-perfect-signature",
+    "slug": "screenshot-signature",
     "name": "Perfect Signature",
     "desc": "A great webapp tool use as a signature pad.",
     "color": "#1AE542",
