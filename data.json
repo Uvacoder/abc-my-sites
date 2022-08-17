@@ -37,6 +37,15 @@
   },
   {
     "month": "Collection",
+    "slug": "screenshot-hiddentools",
+    "name": "Hiddentools",
+    "desc": "A great collection of tools for all your programming needs.",
+    "color": "#43E8D5",
+    "url": "https://abc-hiddentools.vercel.app",
+    "github": "https://github.com/Uvacoder/abc-hiddentools"
+  },
+  {
+    "month": "Collection",
     "slug": "screenshot-icones",
     "name": "Icones",
     "desc": "A great webapp that is a searchable curated list of programming icones on the net.",
