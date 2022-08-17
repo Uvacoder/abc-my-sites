@@ -9,6 +9,15 @@
     "github": "https://github.com/uvacoder/abc-portfolios"
   },
   {
+    "month": "Family",
+    "slug": "screenshot-maddies-world",
+    "name": "Maddies World",
+    "desc": "A little site dedicated to Maddie",
+    "color": "#338eda",
+    "url": "https://maddie.vercel.app",
+    "github": "https://github.com/uvacoder/maddies-world"
+  },
+  {
     "month": "Colors",
     "slug": "screenshot-abccolors",
     "name": "A great collection of gradients",
