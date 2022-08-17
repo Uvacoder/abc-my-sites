@@ -136,7 +136,7 @@
   },
   {
     "month": "Tool",
-    "slug": "screenshot-abc-code-generator",
+    "slug": "screenshot-code-generator",
     "name": "Code Generator",
     "desc": "Just a simple webapp tool for all your password generator needs.",
     "color": "#0b9e43",
@@ -403,15 +403,6 @@
     "color": "#1AE542",
     "url": "https://abc-devfeed.vercel.app",
     "github": "https://github.com/Uvacoder/abc-devfeed"
-  },
-  {
-    "month": "Tool",
-    "slug": "screenshot-abc-mdtool.vercel.app",
-    "name": "mdTool",
-    "desc": "A great online version of a markdown editor, upload, download, imort and much more.",
-    "color": "#1AE542",
-    "url": "https://abc-mdtool.vercel.app",
-    "github": "https://github.com/Uvacoder/abc-mdtool"
   },
   {
     "month": "Tool",
