@@ -36,6 +36,15 @@
     "github": "https://github.com/Uvacoder/webgems-abc"
   },
   {
+    "month": "Collection",
+    "slug": "screenshot-icones",
+    "name": "Icones",
+    "desc": "A great webapp that is a searchable curated list of programming icones on the net.",
+    "color": "#43E8D5",
+    "url": "https://abc-icones.vercel.app",
+    "github": "https://github.com/Uvacoder/abc-icones"
+  },
+  {
     "month": "Webapp",
     "slug": "screenshot-notetaker",
     "name": "Notetaker",
