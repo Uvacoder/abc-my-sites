@@ -117,6 +117,15 @@
     "github": "https://github.com/Uvacoder/abc-code-generator"
   },
   {
+    "month": "Tool",
+    "slug": "screenshot-ez-resume,
+    "name": "Ez Resume",
+    "desc": "Just a simple webapp tool any kind of resume you may need.  The best program out there.",
+    "color": "#0b9e43",
+    "url": "https://abc-ez-resume.vercel.app",
+    "github": "https://github.com/Uvacoder/ez-resume"
+  },
+  {
     "month": "Guide",
     "slug": "screenshot-webdev-glossary",
     "name": "WebDev Glossary",
