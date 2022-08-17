@@ -63,15 +63,6 @@
     "github": "https://github.com/uvacoder/abc-elevenety-rss-reader"
   },
   {
-    "month": "Collection",
-    "slug": "screenshot-abc-devtools",
-    "name": "All awesome devtools",
-    "desc": "A great collection of frontend resources for your liking.",
-    "color": "#338eda",
-    "url": "https://eleventy-rss-reader.vercel.app",
-    "github": "https://github.com/uvacoder/abc-elevenety-rss-reader"
-  },
-  {
     "month": "Webapp",
     "slug": "screenshot-github-profile",
     "name": "GitHub Profile Search",
@@ -267,7 +258,7 @@
     "desc": "Just a simple collection of frontend resources",
     "color": "#1AE542",
     "url": "https://https://awesome-devtools.vercel.app",
-    "github": "https://github.com/Uvacoder/awesome devtools"
+    "github": "https://github.com/Uvacoder/awesome-devtools"
   },
   {
     "month": "Webapp",
@@ -385,15 +376,6 @@
     "color": "#1AE542",
     "url": "https://abc-periodic-table.netlify.app",
     "github": "https://github.com/Uvacoder/periodictable"
-  },
-  {
-    "month": "Collection",
-    "slug": "screenshot-devfeed",
-    "name": "devFeed",
-    "desc": "A great aggregator from 5 of the top web development and programming sites.",
-    "color": "#1AE542",
-    "url": "https://abc-devfeed.vercel.app",
-    "github": "https://github.com/Uvacoder/abc-devfeed"
   },
   {
     "month": "Collection",
