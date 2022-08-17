@@ -108,6 +108,15 @@
     "github": "https://github.com/Uvacoder/abc-emoji-aid"
   },
   {
+    "month": "Tool",
+    "slug": "screenshot-abc-code-generator",
+    "name": "Code Generator",
+    "desc": "Just a simple webapp tool for all your password generator needs.",
+    "color": "#0b9e43",
+    "url": "https://abc-code-generator.vercel.app",
+    "github": "https://github.com/Uvacoder/abc-code-generator"
+  },
+  {
     "month": "Guide",
     "slug": "screenshot-webdev-glossary",
     "name": "WebDev Glossary",
