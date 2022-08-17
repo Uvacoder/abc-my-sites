@@ -54,6 +54,15 @@
     "github": "https://github.com/Uvacoder/abc-icones"
   },
   {
+    "month": "Collection",
+    "slug": "screenshot-github-emojis",
+    "name": "GitHub Emojis",
+    "desc": "A great webapp to search all emojis and copy to your clipboard.",
+    "color": "#43E8D5",
+    "url": "https://abc-github-emojis.vercel.app",
+    "github": "https://github.com/Uvacoder/github-emojis"
+  },
+  {
     "month": "Webapp",
     "slug": "screenshot-notetaker",
     "name": "Notetaker",
