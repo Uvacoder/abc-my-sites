@@ -82,6 +82,15 @@
   },
   {
     "month": "Webapp",
+    "slug": "screenshot-webdev",
+    "name": "WebDev",
+    "desc": "A great collectionn of some of the best resources for all your programming needs.",
+    "color": "#43E8D5",
+    "url": "https://abc-webdevcoms.vercel.app",
+    "github": "https://github.com/Uvacoder/webdev"
+  },
+  {
+    "month": "Webapp",
     "slug": "screenshot-notetaker",
     "name": "Notetaker",
     "desc": "A great webapp simple notetaking with the notes saved in the browser.",
