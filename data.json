@@ -189,6 +189,33 @@
     "github": "https://github.com/Uvacoder/ez-resume"
   },
   {
+    "month": "Tool",
+    "slug": "screenshot-mockup",
+    "name": "Screenshot Mockup",
+    "desc": "Just a simple webapp tool to mockup your Design for Instantly Shareable Images",
+    "color": "#0b9e43",
+    "url": "https://screenshot-mockup.vercel.app",
+    "github": "https://github.com/Uvacoder/screenshot-mockup"
+  },
+  {
+    "month": "Tool",
+    "slug": "screenshot-mockify",
+    "name": "Mockify",
+    "desc": "Just a simple webapp tool to mockup your Design for Instantly Shareable Images",
+    "color": "#0b9e43",
+    "url": "https://mockify-abc.vercel.app",
+    "github": "https://github.com/Uvacoder/mockify"
+  },
+  {
+    "month": "Tool",
+    "slug": "screenshot-youtube-links",
+    "name": "Convert YouTube Links",
+    "desc": "Just a simple webapp tool convert your youtube links.",
+    "color": "#0b9e43",
+    "url": "https://convert-youtube-links.vercel.app",
+    "github": "https://github.com/Uvacoder/convert-youtube-links"
+  },
+  {
     "month": "Guide",
     "slug": "screenshot-webdev-glossary",
     "name": "WebDev Glossary",
