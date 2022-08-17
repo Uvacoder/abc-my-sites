@@ -36,6 +36,15 @@
     "github": "https://github.com/Uvacoder/notetaker"
   },
   {
+    "month": "Webapp",
+    "slug": "screenshot-dribbble-stats",
+    "name": "Dribbble Stats",
+    "desc": "A great webapp tool which can take all the data from you dribbble account and show all your date.",
+    "color": "#43E8D5",
+    "url": "https://dribble-stats.vercel.app",
+    "github": "https://github.com/Uvacoder/abc-dribbble-stats"
+  },
+  {
     "month": "Collection",
     "slug": "screenshot-abc-rss-feed",
     "name": "My devhub Rss Feed",
