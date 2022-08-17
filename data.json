@@ -396,6 +396,15 @@
     "github": "https://github.com/Uvacoder/react-tools-practices-guide"
   },
   {
+    "month": "Guide",
+    "slug": "screenshot-vue-cheat-sheet",
+    "name": "Vue Cheatsheet",
+    "desc": "A great guide for all your Vue needs and questions.  A great cheatsheet.",
+    "color": "#1AE542",
+    "url": "https://uvacoder.github.io/vue-cheatsheet/",
+    "github": "https://uvacoder.github.io/vue-cheatsheet/"
+  },
+  {
     "month": "Tool",
     "slug": "screenshot-physics-calc",
     "name": "Physics Calculator",
@@ -403,6 +412,33 @@
     "color": "#1AE542",
     "url": "https://abc-physics-calc.vercel.app",
     "github": "https://github.com/Uvacoder/abc-physics-calc"
+  },
+  {
+    "month": "Tool",
+    "slug": "screenshot-cheatsheet-css",
+    "name": "Cheatsheet CSS",
+    "desc": "A great and simple one page cheatsheet for CSS.",
+    "color": "#1AE542",
+    "url": "https://uvacoder.github.io/cheatsheet-css/",
+    "github": "https://github.com/Uvacoder/cheatsheet-css"
+  },
+  {
+    "month": "Tool",
+    "slug": "screenshot-cheatsheet-tailwindcss",
+    "name": "Cheatsheet CSS",
+    "desc": "A great and simple one page cheatsheet for Tailwindcss.",
+    "color": "#1AE542",
+    "url": "https://cheatsheet-tailwindcss.vercel.app",
+    "github": "https://github.com/Uvacoder/cheatsheet-tailwindcss"
+  },
+  {
+    "month": "Tool",
+    "slug": "screenshot-converter-tailwindcss",
+    "name": "Tailwind CSS converter",
+    "desc": "A great and simple webapp tool to help you on your tailwindcss conversions.",
+    "color": "#1AE542",
+    "url": "https://converter-tailwindcss.vercel.app",
+    "github": "https://github.com/Uvacoder/tailwind-converter"
   },
   {
     "month": "Webapp",
