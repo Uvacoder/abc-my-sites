@@ -333,6 +333,15 @@
     "github": "https://github.com/Uvacoder/periodictable"
   },
   {
+    "month": "Collection",
+    "slug": "screenshot-devfeed",
+    "name": "devFeed",
+    "desc": "A great aggregator from 5 of the top web development and programming sites.",
+    "color": "#1AE542",
+    "url": "https://abc-devfeed.vercel.app",
+    "github": "https://github.com/Uvacoder/abc-devfeed"
+  },
+  {
     "month": "Tool",
     "slug": "screenshot-ushare-it.vercel.app",
     "name": "Share-It",
