@@ -216,6 +216,15 @@
     "github": "https://github.com/Uvacoder/convert-youtube-links"
   },
   {
+    "month": "Collection",
+    "slug": "screenshot-abc-awesomesearch",
+    "name": "New Awesome Search",
+    "desc": "A great search engine to search the awesome list from github user sindhorus.",
+    "color": "#333CC0",
+    "url": "https://abc-awesomesearch.vercel.app",
+    "github": "https://github.com/Uvacoder/abc-awesomesearch"
+  },
+  {
     "month": "Guide",
     "slug": "screenshot-webdev-glossary",
     "name": "WebDev Glossary",
@@ -269,6 +278,16 @@
     "url": "https://awesome-search-abc.vercel.app",
     "github": "https://github.com/Uvacoder/abc-awesome-search"
   },
+  {
+    "month": "Collection",
+    "slug": "screenshot-abc-awesomesearch",
+    "name": "New Awesome Search",
+    "desc": "A great search engine to search the awesome list from github user sindhorus.",
+    "color": "#333CC0",
+    "url": "https://abc-awesomesearch.vercel.app",
+    "github": "https://github.com/Uvacoder/abc-awesomesearch"
+  },
+3
   {
     "month": "Collection",
     "slug": "screenshot-search-a-gif",
