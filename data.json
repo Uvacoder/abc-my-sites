@@ -46,7 +46,7 @@
   },
   {
     "month": "Collection",
-    "slug": "screenshot-abc-devmarks",
+    "slug": "screenshot-devmarks",
     "name": "abc Devmarks",
     "desc": "A curated list of dev marks and pages detailing developer setups, gear, software and configs.",
     "color": "#43E8D5",
@@ -73,7 +73,7 @@
   },
   {
     "month": "Collection",
-    "slug": "screenshot-github-emojis",
+    "slug": "screenshot-GitHub-emojis",
     "name": "GitHub Emojis",
     "desc": "A great webapp to search all emojis and copy to your clipboard.",
     "color": "#43E8D5",
