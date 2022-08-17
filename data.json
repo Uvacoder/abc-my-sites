@@ -313,7 +313,15 @@
     "url": "https://abc-awesomesearch.vercel.app",
     "github": "https://github.com/Uvacoder/abc-awesomesearch"
   },
-3
+  {
+    "month": "Collection",
+    "slug": "screenshot-awesome-design-tools",
+    "name": "Awesome Design Tools",
+    "desc": "A great great collection of some of the best links for all your design needs.",
+    "color": "#333CC0",
+    "url": "https://awesome-design-tools.vercel.app",
+    "github": "https://github.com/Uvacoder/Awesome-Design-Tools"
+  },
   {
     "month": "Collection",
     "slug": "screenshot-search-a-gif",
