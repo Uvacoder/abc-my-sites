@@ -45,6 +45,15 @@
     "github": "https://github.com/uvacoder/abc-elevenety-rss-reader"
   },
   {
+    "month": "Collection",
+    "slug": "screenshot-abc-devtools",
+    "name": "All awesome devtools",
+    "desc": "A great collection of frontend resources for your liking.",
+    "color": "#338eda",
+    "url": "https://eleventy-rss-reader.vercel.app",
+    "github": "https://github.com/uvacoder/abc-elevenety-rss-reader"
+  },
+  {
     "month": "Webapp",
     "slug": "screenshot-github-profile",
     "name": "GitHub Profile Search",
@@ -216,6 +225,15 @@
     "github": "https://github.com/Uvacoder/abc-publicapis"
   },
   {
+    "month": "Collection",
+    "slug": "screenshot-awesome-devtools",
+    "name": "All Awesome Devtools",
+    "desc": "Just a simple collection of frontend resources",
+    "color": "#1AE542",
+    "url": "https://https://awesome-devtools.vercel.app",
+    "github": "https://github.com/Uvacoder/awesome devtools"
+  },
+  {
     "month": "Webapp",
     "slug": "screenshot-cube-cubed",
     "name": "Rubiks Cube",
@@ -368,4 +386,3 @@
     "url": "https://ushare-it.vercel.app",
     "github": "https://github.com/Uvacoder/abc-ushare-it"
   }
-]
