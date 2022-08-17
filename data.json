@@ -513,15 +513,6 @@
     "github": "https://github.com/Uvacoder/tailwind-converter"
   },
   {
-    "month": "Webapp",
-    "slug": "screenshot-nuxt-hn",
-    "name": "HackerNews by Nuxt",
-    "desc": "A great webapp which using Nuxt.js to display and organize the feed from hackernews.",
-    "color": "#1AE542",
-    "url": "https://hackernews-abc.vercel.app/news",
-    "github": "https://github.com/Uvacoder/hackernews-abc"
-  },
-  {
     "month": "Collection",
     "slug": "screenshot-font-library",
     "name": "Font Library",
