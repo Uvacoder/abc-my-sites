@@ -179,6 +179,15 @@
     "github": "https://github.com/Uvacoder/abc-quotes"
   },
   {
+    "month": "Webapp",
+    "slug": "screenshot-abc-stoicism",
+    "name": "Stoic Philosophers",
+    "desc": "A great collection of stoic philosophers and there most famous quotes.",
+    "color": "#0b9e43",
+    "url": "https://abc-stoicism.netlify.app",
+    "github": "https://github.com/Uvacoder/abc-stoicism"
+  },
+  {
     "month": "Tool",
     "slug": "screenshot-emojiaid",
     "name": "Emoji-aid",
@@ -423,7 +432,7 @@
     "github": "https://github.com/Uvacoder/v-perfect-signature"
   },
   {
-    "month": "Tool",
+    "month": "Guide",
     "slug": "screenshot-reacttools-guide",
     "name": "React Tools Guide",
     "desc": "A great guide using docusaurus as its layout and a great guide for all things react.",
@@ -450,7 +459,7 @@
     "github": "https://github.com/Uvacoder/abc-physics-calc"
   },
   {
-    "month": "Tool",
+    "month": "Guide",
     "slug": "screenshot-cheatsheet-css",
     "name": "Cheatsheet CSS",
     "desc": "A great and simple one page cheatsheet for CSS.",
@@ -497,7 +506,7 @@
   {
     "month": "Tool",
     "slug": "screenshot-ez-resume",
-    "name": "Easy Resume",
+    "name": "Ez Resume",
     "desc": "A great webapp to help you create your own resume with ease but all the looks of a professional.",
     "color": "#1AE542",
     "url": "https://ez-resume.vercel.app",
