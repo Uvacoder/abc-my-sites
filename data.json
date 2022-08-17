@@ -100,6 +100,15 @@
   },
   {
     "month": "Webapp",
+    "slug": "screenshot-freeapis",
+    "name": "Free API's",
+    "desc": "A great collectionn of all the free apis to use in your projects.",
+    "color": "#43E8D5",
+    "url": "https://abc-freeapis.vercel.app/#/",
+    "github": "https://github.com/Uvacoder/abc-freeapis"
+  },
+  {
+    "month": "Webapp",
     "slug": "screenshot-notetaker",
     "name": "Notetaker",
     "desc": "A great webapp simple notetaking with the notes saved in the browser.",
