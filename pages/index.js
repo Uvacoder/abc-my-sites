@@ -37,10 +37,10 @@ const Header = () => (
           0 2px 4px rgba(0, 0, 0, 0.25);
       }
       .header h1 {
-        font-size: clamp(1.5rem, 1rem + 8vw, 4rem);
+        font-size: clamp(2.5rem, 1rem + 8vw, 4rem);
       }
       .header h2 {
-        font-size: clamp(1rem, 1rem + 4vw, 2rem);
+        font-size: clamp(2rem, 1rem + 4vw, 2rem);
         padding: 0 6pt;
         opacity: 0.875;
       }
