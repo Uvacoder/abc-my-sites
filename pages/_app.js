@@ -10,7 +10,7 @@ const theme = {
 
 function MyApp({ Component, pageProps }) {
   return (
-    <PlausibleProvider domain="2020-sites.lachlanjc.com">
+    <PlausibleProvider domain="abc-sites-collection.vercel.app">
       <GeistProvider theme={theme}>
         <CssBaseline />
         <Component {...pageProps} />
