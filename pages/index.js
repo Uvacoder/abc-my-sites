@@ -27,7 +27,7 @@ const Header = () => (
       }
       .header * {
         z-index: 2;
-        color: #6930C3 !important;
+        color: #1976D2 !important;
         position: relative;
       }
       .header h1,
