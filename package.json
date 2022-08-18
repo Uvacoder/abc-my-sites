@@ -1,7 +1,7 @@
 {
   "name": "sites-collection",
   "version": "1.0.0",
-  "author": "Lachlan Campbell <lachlanjc@hey.com>",
+  "author": "uvacoder",
   "license": "MIT",
   "private": true,
   "scripts": {
@@ -10,13 +10,13 @@
     "start": "next"
   },
   "dependencies": {
-    "@geist-ui/react": "^2.1.0-canary.2",
+    "@geist-ui/react": "^2.2.5",
     "@hackclub/markdown": "^0.0.1-alpha.0",
-    "hls.js": "^0.14.17",
+    "hls.js": "^1.2.1",
     "lodash": "^4.17.20",
-    "next": "^10.0.5",
-    "next-plausible": "^1.3.1",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "next": "^12.2.5",
+    "next-plausible": "^3.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
