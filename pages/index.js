@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import Image from 'next/image'
 import { Text, Card, Spacer, Row, Col, Grid, Toggle } from '@geist-ui/react'
-
+import { Github } from '@geist-ui/icons'
 import Meta from '../components/meta'
 //import Video from '../components/mux'
 import Author from '../components/author'
@@ -123,6 +123,7 @@ const Index = () => (
       ))}
     </Grid.Container>
     <Spacer y={1.5} />
+    <Github color="red" />
     <Text
       type="secondary"
       align="center"
