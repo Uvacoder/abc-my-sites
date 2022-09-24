@@ -90,6 +90,15 @@
     "github": "https://github.com/Uvacoder/github-emojis"
   },
   {
+    "month": "Collection",
+    "slug": "screenshot-resources4webdev",
+    "name": "Resources 4 WebDev",
+    "desc": "A great webapp to search for numerous resources for webdev.",
+    "color": "#43E8D5",
+    "url": "https://resources4webdev.netlify.app",
+    "github": "https://github.com/Uvacoder/abc-resouurces4webdev"
+  },
+  {
     "month": "Webapp",
     "slug": "screenshot-webdev",
     "name": "WebDev",
