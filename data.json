@@ -36,6 +36,15 @@
     "github": "https://github.com/Uvacoder/abc-awesome-colors"
   },
   {
+    "month": "Colors",
+    "slug": "screenshot-colorfulpalettes",
+    "name": "Colorful Palettes",
+    "desc": "A great tool which generated hundreds of great colorful palettes for you to copy and paste.",
+    "color": "#43E8D5",
+    "url": "https://colorfulpalettes.vercel.app",
+    "github": "https://github.com/Uvacoder/abc-colorful-palettes"
+  },
+  {
     "month": "Collection",
     "slug": "screenshot-blogroll",
     "name": "ABC Blogroll",
