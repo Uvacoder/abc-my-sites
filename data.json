@@ -27,6 +27,15 @@
     "github": "https://github.com/Uvacoder/abc-colors"
   },
   {
+    "month": "Colors",
+    "slug": "screenshot-awesomecolors",
+    "name": "AwesomeColors",
+    "desc": "A great tool to help you generate colorful UI and other programming needs.",
+    "color": "#43E8D5",
+    "url": "https://awesome-colors.vercel.app",
+    "github": "https://github.com/Uvacoder/abc-awesome-colors"
+  },
+  {
     "month": "Collection",
     "slug": "screenshot-blogroll",
     "name": "ABC Blogroll",
