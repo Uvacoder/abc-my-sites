@@ -19,12 +19,12 @@
   },
   {
     "month": "Colors",
-    "slug": "screenshot-abccolors",
+    "slug": "screenshot-colortopia",
     "name": "A great collection of gradients",
     "desc": "A great webapp that is a great tool for geradients and other tools for working with gradients.",
     "color": "#43E8D5",
-    "url": "https://abc-colors.vercel.app",
-    "github": "https://github.com/Uvacoder/abc-colors"
+    "url": "https://colortopia.vercel.app",
+    "github": "https://github.com/Uvacoder/abc-colortopia"
   },
   {
     "month": "Colors",
